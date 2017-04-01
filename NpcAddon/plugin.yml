@@ -1,0 +1,6 @@
+name: NpcAddon
+author: LimeGlass
+description: A Skript addon for custom Npcs
+version: 1.0.0
+main: me.limeglass.npcaddon.NpcAddon
+depend: [Skript]
